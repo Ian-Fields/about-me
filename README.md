@@ -4,11 +4,17 @@ My name is Ian Fields. I am an aspiring web developer with several years of expe
 
 I am engaged to the love of my life and I am pursuing a career as a Full Stack Developer to be able to look back at my life and know that I didn't let the fear of being inadequate control my life.
 
+## Profiles
+*[LinkedIn] (https://www.linkedin.com/in/ifields/)
+*[Facebook] (https://www.facebook.com/ianflds)
+*[Github] (https://github.com/Ian-Fields)
+*[CodePen] (https://codepen.io/ifields)
+
+## Technical Skills
+HTML and CSS. Looking to enhance those skills and gain knowledge in Javascript
+
 ## For Fun
 * Travel
 * Board Games
 * Sports
 * Cooking
-=======
-# about-me
->>>>>>> a8fe6e533a89068de7e4cf88d84ded659e8cd1df
